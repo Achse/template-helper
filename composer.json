@@ -2,8 +2,11 @@
 	"name": "achse/template-helper",
 	"description": "",
 	"type": "library",
-	"license": [
-		"MIT"
+	"license": "MIT",
+	"keywords": [
+		"latte",
+		"template",
+		"nette"
 	],
 	"authors": [
 		{
